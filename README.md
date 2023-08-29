@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- 📚 [About the Bootcamp](#about-the-bootcamp)
-- 🚀 [Daily Progress](#daily-progress)
-- 📂 [Repository Structure](#repository-structure)
-- 📚 [Additional Resources](#additional-resources)
-- 📞 [Connect with Me](#connect-with-me)
-- 📈 [Progress Overview](#progress-overview)
+- 📚 [About the Bootcamp](#about-the-bootcamp-about-the-bootcamp)
+- 🚀 [Daily Progress](#daily-progress-daily-progress)
+- 📂 [Repository Structure](#repository-structure-repository-structure)
+- 📚 [Additional Resources](#additional-resources-additional-resources)
+- 📞 [Connect with Me](#connect-with-me-📞)
+- 📈 [Progress Overview](#progress-overview-progress-overview)
 
 
 ## About the Bootcamp {#about-the-bootcamp}
@@ -35,17 +35,14 @@ Feel free to explore the sections below to follow my daily progress, explore the
 
 Ready to begin this exciting journey? Let's get started!
 
-## Connect with Me {#connect-with-me}
+## Connect with Me 📞
 
-📞 Let's stay connected! Feel free to reach out to me on different platforms:
+If you have any questions or suggestions, feel free to reach out to me:
 
-Let's stay connected! Feel free to reach out to me on different platforms:
-
-- Telegram: [@Amirov_Sunnat](https://t.me/Amirov_Sunnat)
-- GitHub: [AmirovSunnat](https://github.com/amirovsunnat)
-- LinkedIn: [Sunnatbek Amirov](https://www.linkedin.com/in/sunnatbek-amirov-860307240)
-- Stack Overflow: [Sunnat Amirov](https://stackoverflow.com/users/21975339/sunnat-amirov?tab=profile)
-
+[![Telegram](https://img.shields.io/badge/Telegram-%40Amirov_Sunnat-blue)](https://t.me/Amirov_Sunnat)
+[![GitHub](https://img.shields.io/badge/GitHub-amirovsunnat-green)](https://github.com/amirovsunnat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SunnatAmirov-blue)](https://www.linkedin.com/in/sunnatbek-amirov-860307240)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-sunnatamirov-orange)](https://stackoverflow.com/users/21975339/sunnat-amirov?tab=profile)
 
 Feel free to follow along on Twitter for more updates: [@AmirovSunnatbek](https://twitter.com/AmirovSunnatbek)
 
@@ -55,7 +52,7 @@ I'm excited to share my journey with you and learn together!
 | Day | Topics Covered          | Progress    |
 |-----|-------------------------|-------------|
 |  1  | Basics of Python        | ✅ Completed|
-|  2  | ...                     | 🚧 In Prog. |
+|  2  | Data types              | ✅ Completed|
 |  3  | ...                     | ❌ Not Start|
 |  4  | ...                     | ❌ Not Start|
 |  5  | ...                     | ❌ Not Start|
@@ -163,12 +160,12 @@ I'm excited to share my journey with you and learn together!
 
 ## Mavzular ro'yxati
 
-- 📚 [Bootcamp Haqida](#bootcamp-haqida)
-- 🚀 [Kunlik O'zgarishlar](#kunlik-ozgarishlar)
-- 📂 [Repository Tuzilmasi](#repository-tuzilmasi)
-- 📚 [Qo'shimcha Manbalar](#qoshimcha-manbalar)
-- 📞 [Men Bilan Bog'lanish](#men-bilan-boglanish)
-- 📈 [Oxirgi Progress](#oxirgi-progress)
+- 📚 [Bootcamp Haqida](#bootcamp-haqida-bootcamp-haqida)
+- 🚀 [Kunlik O'zgarishlar](#kunlik-ozgarishlar-kunlik-ozgarishlar)
+- 📂 [Repository Tuzilmasi](#repository-tuzilmasi-repository-tuzilmasi)
+- 📚 [Qo'shimcha Manbalar](#qoshimcha-manbalar-qoshimcha-manbalar)
+- 📞 [Men Bilan Bog'lanish](#men-bilan-boglanish-📞)
+- 📈 [Oxirgi Progress](#oxirgi-progress-oxirgi-progress)
 
 
 ## Bootcamp Haqida {#bootcamp-haqida}
@@ -196,14 +193,15 @@ Quyidagi bo'limlarda o'zimning kundalik o'rganish faoliyatimni kuzatib borishing
 
 Ushbu ajoyib sayohatni boshlash uchun tayyormanmisiz? Boshlaylik!
 
-## Men Bilan Bog'lanish {#men-bilan-boglanish}
+## Men bilan bo'glanish 📞
 
-📞 Men bilan bog'liq! Men bilan turli platformalarda bog'lanishingizdan o'zbek tilida xursandman:
+If you have any questions or suggestions, feel free to reach out to me:
 
-- Telegram: [@Amirov_Sunnat](https://t.me/Amirov_Sunnat)
-- GitHub: [AmirovSunnat](https://github.com/amirovsunnat)
-- LinkedIn: [Sunnatbek Amirov](https://www.linkedin.com/in/sunnatbek-amirov-860307240)
-- Stack Overflow: [Sunnat Amirov](https://stackoverflow.com/users/21975339/sunnat-amirov?tab=profile)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Amirov_Sunnat-blue)](https://t.me/Amirov_Sunnat)
+[![GitHub](https://img.shields.io/badge/GitHub-amirovsunnat-green)](https://github.com/amirovsunnat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SunnatAmirov-blue)](https://www.linkedin.com/in/sunnatbek-amirov-860307240)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-sunnatamirov-orange)](https://stackoverflow.com/users/21975339/sunnat-amirov?tab=profile)
+
 
 
 ## Titter progres {#twitter-progres}
@@ -215,8 +213,8 @@ Siz bilan birga sayohat qilish va birgalikda o'rganish imkoniyatini kutib qolami
  ___________________________________________________
 | Kuning raqami | Mavzular          | Progress      |
 |---------------|-------------------|-------------- |
-|  1            | Pythonning Asoslari| ✅ Tugallandi|
-|  2            | ...               | 🚧 Ishda      |
+|  1            |Pythonning Asoslari| ✅ Tugallandi |
+|  2            | Ma'lumot turlari  | ✅ Tugallandi |
 |  3            | ...               | ❌ Boshlanmadi|
 |  4            | ...               | ❌ Boshlanmadi|
 |  5            | ...               | ❌ Boshlanmadi|
