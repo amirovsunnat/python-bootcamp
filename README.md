@@ -53,8 +53,8 @@ I'm excited to share my journey with you and learn together!
 |-----|-------------------------|-------------|
 |  1  | Basics of Python        | ✅ Completed|
 |  2  | Data types              | ✅ Completed|
-|  3  | ...                     | ❌ Not Start|
-|  4  | ...                     | ❌ Not Start|
+|  3  | ...                     | ✅ Completed|
+|  4  | ...                     |🔄 Inprogress|
 |  5  | ...                     | ❌ Not Start|
 |  6  | ...                     | ❌ Not Start|
 |  7  | ...                     | ❌ Not Start|
@@ -215,8 +215,8 @@ Siz bilan birga sayohat qilish va birgalikda o'rganish imkoniyatini kutib qolami
 |---------------|-------------------|-------------- |
 |  1            |Pythonning Asoslari| ✅ Tugallandi |
 |  2            | Ma'lumot turlari  | ✅ Tugallandi |
-|  3            | ...               | ❌ Boshlanmadi|
-|  4            | ...               | ❌ Boshlanmadi|
+|  3            | ...               | ✅ Tugallandi |
+|  4            | ...               | 🔄Bajarilmoqda|
 |  5            | ...               | ❌ Boshlanmadi|
 |  6            | ...               | ❌ Boshlanmadi|
 |  7            | ...               | ❌ Boshlanmadi|
