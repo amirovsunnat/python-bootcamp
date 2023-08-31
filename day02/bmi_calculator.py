@@ -17,6 +17,7 @@ weight = float(input("enter your weight in kg: "))
 BMI = weight / height ** 2 
 BMI = int(BMI)
 print("Your BMI is: " + str(BMI))
+print(f"Your BMI is: {BMI}") 
 
 
 # UZBEK VERSION
@@ -27,3 +28,4 @@ vazn = float(input("Vazningizni kiriting (kg)da: "))
 BMI = vazn / boy ** 2 
 BMI = int(BMI)
 print("Sizning BMIingiz: " + str(BMI))
+print(f"Sizning BMIingiz: {BMI}")
