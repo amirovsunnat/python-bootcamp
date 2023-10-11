@@ -49,108 +49,108 @@ Feel free to follow along on Twitter for more updates: [@AmirovSunnatbek](https:
 I'm excited to share my journey with you and learn together!
 
  _____________________________________________
-| Day | Topics Covered          | Progress    |
-|-----|-------------------------|-------------|
-|  1  | Basics of Python        | ✅ Completed|
-|  2  | Data types              | ✅ Completed|
-|  3  | ...                     | ✅ Completed|
-|  4  | ...                     |🔄 Inprogress|
-|  5  | ...                     | ❌ Not Start|
-|  6  | ...                     | ❌ Not Start|
-|  7  | ...                     | ❌ Not Start|
-|  8  | ...                     | ❌ Not Start|
-|  9  | ...                     | ❌ Not Start|
-|  10 | ...                     | ❌ Not Start|
-|  11 | ...                     | ❌ Not Start|
-|  12 | ...                     | ❌ Not Start|
-|  13 | ...                     | ❌ Not Start|
-|  14 | ...                     | ❌ Not Start|
-|  15 | ...                     | ❌ Not Start|
-|  16 | ...                     | ❌ Not Start|
-|  17 | ...                     | ❌ Not Start|
-|  18 | ...                     | ❌ Not Start|
-|  19 | ...                     | ❌ Not Start|
-|  20 | ...                     | ❌ Not Start|
-|  21 | ...                     | ❌ Not Start|
-|  22 | ...                     | ❌ Not Start|
-|  23 | ...                     | ❌ Not Start|
-|  24 | ...                     | ❌ Not Start|
-|  25 | ...                     | ❌ Not Start|
-|  26 | ...                     | ❌ Not Start|
-|  27 | ...                     | ❌ Not Start|
-|  28 | ...                     | ❌ Not Start|
-|  29 | ...                     | ❌ Not Start|
-|  30 | ...                     | ❌ Not Start|
-|  31 | ...                     | ❌ Not Start|
-|  32 | ...                     | ❌ Not Start|
-|  33 | ...                     | ❌ Not Start|
-|  34 | ...                     | ❌ Not Start|
-|  35 | ...                     | ❌ Not Start|
-|  36 | ...                     | ❌ Not Start|
-|  37 | ...                     | ❌ Not Start|
-|  38 | ...                     | ❌ Not Start|
-|  39 | ...                     | ❌ Not Start|
-|  40 | ...                     | ❌ Not Start|
-|  41 | ...                     | ❌ Not Start|
-|  42 | ...                     | ❌ Not Start|
-|  43 | ...                     | ❌ Not Start|
-|  44 | ...                     | ❌ Not Start|
-|  45 | ...                     | ❌ Not Start|
-|  46 | ...                     | ❌ Not Start|
-|  47 | ...                     | ❌ Not Start|
-|  48 | ...                     | ❌ Not Start|
-|  49 | ...                     | ❌ Not Start|
-|  50 | ...                     | ❌ Not Start|
-|  51 | ...                     | ❌ Not Start|
-|  52 | ...                     | ❌ Not Start|
-|  53 | ...                     | ❌ Not Start|
-|  54 | ...                     | ❌ Not Start|
-|  55 | ...                     | ❌ Not Start|
-|  56 | ...                     | ❌ Not Start|
-|  57 | ...                     | ❌ Not Start|
-|  58 | ...                     | ❌ Not Start|
-|  59 | ...                     | ❌ Not Start|
-|  60 | ...                     | ❌ Not Start|
-|  61 | ...                     | ❌ Not Start|
-|  62 | ...                     | ❌ Not Start|
-|  63 | ...                     | ❌ Not Start|
-|  64 | ...                     | ❌ Not Start|
-|  65 | ...                     | ❌ Not Start|
-|  66 | ...                     | ❌ Not Start|
-|  67 | ...                     | ❌ Not Start|
-|  68 | ...                     | ❌ Not Start|
-|  69 | ...                     | ❌ Not Start|
-|  70 | ...                     | ❌ Not Start|
-|  71 | ...                     | ❌ Not Start|
-|  72 | ...                     | ❌ Not Start|
-|  73 | ...                     | ❌ Not Start|
-|  74 | ...                     | ❌ Not Start|
-|  75 | ...                     | ❌ Not Start|
-|  76 | ...                     | ❌ Not Start|
-|  77 | ...                     | ❌ Not Start|
-|  78 | ...                     | ❌ Not Start|
-|  79 | ...                     | ❌ Not Start|
-|  80 | ...                     | ❌ Not Start|
-|  81 | ...                     | ❌ Not Start|
-|  82 | ...                     | ❌ Not Start|
-|  83 | ...                     | ❌ Not Start|
-|  84 | ...                     | ❌ Not Start|
-|  85 | ...                     | ❌ Not Start|
-|  86 | ...                     | ❌ Not Start|
-|  87 | ...                     | ❌ Not Start|
-|  88 | ...                     | ❌ Not Start|
-|  89 | ...                     | ❌ Not Start|
-|  90 | ...                     | ❌ Not Start|
-|  91 | ...                     | ❌ Not Start|
-|  92 | ...                     | ❌ Not Start|
-|  93 | ...                     | ❌ Not Start|
-|  94 | ...                     | ❌ Not Start|
-|  95 | ...                     | ❌ Not Start|
-|  96 | ...                     | ❌ Not Start|
-|  97 | ...                     | ❌ Not Start|
-|  98 | ...                     | ❌ Not Start|
-|  99 | ...                     | ❌ Not Start|
-| 100 | ...                     | ❌ Not Start|
+| Day | Topics Covered          | Progress     |
+|-----|-------------------------|--------------|
+|  1  | Basics of Python        | ✅ Completed  |
+|  2  | Data types              | ✅ Completed  |
+|  3  | ...                     | ✅ Completed  |
+|  4  | ...                     | ✅ Completed  |
+|  5  | ...                     | 🔄 Inprogress |
+|  6  | ...                     | ❌ Not Start  |
+|  7  | ...                     | ❌ Not Start  |
+|  8  | ...                     | ❌ Not Start  |
+|  9  | ...                     | ❌ Not Start  |
+|  10 | ...                     | ❌ Not Start  |
+|  11 | ...                     | ❌ Not Start  |
+|  12 | ...                     | ❌ Not Start  |
+|  13 | ...                     | ❌ Not Start  |
+|  14 | ...                     | ❌ Not Start  |
+|  15 | ...                     | ❌ Not Start  |
+|  16 | ...                     | ❌ Not Start  |
+|  17 | ...                     | ❌ Not Start  |
+|  18 | ...                     | ❌ Not Start  |
+|  19 | ...                     | ❌ Not Start  |
+|  20 | ...                     | ❌ Not Start  |
+|  21 | ...                     | ❌ Not Start  |
+|  22 | ...                     | ❌ Not Start  |
+|  23 | ...                     | ❌ Not Start  |
+|  24 | ...                     | ❌ Not Start  |
+|  25 | ...                     | ❌ Not Start  |
+|  26 | ...                     | ❌ Not Start  |
+|  27 | ...                     | ❌ Not Start  |
+|  28 | ...                     | ❌ Not Start  |
+|  29 | ...                     | ❌ Not Start  |
+|  30 | ...                     | ❌ Not Start  |
+|  31 | ...                     | ❌ Not Start  |
+|  32 | ...                     | ❌ Not Start  |
+|  33 | ...                     | ❌ Not Start  |
+|  34 | ...                     | ❌ Not Start  |
+|  35 | ...                     | ❌ Not Start  |
+|  36 | ...                     | ❌ Not Start  |
+|  37 | ...                     | ❌ Not Start  |
+|  38 | ...                     | ❌ Not Start  |
+|  39 | ...                     | ❌ Not Start  |
+|  40 | ...                     | ❌ Not Start  |
+|  41 | ...                     | ❌ Not Start  |
+|  42 | ...                     | ❌ Not Start  |
+|  43 | ...                     | ❌ Not Start  |
+|  44 | ...                     | ❌ Not Start  |
+|  45 | ...                     | ❌ Not Start  |
+|  46 | ...                     | ❌ Not Start  |
+|  47 | ...                     | ❌ Not Start  |
+|  48 | ...                     | ❌ Not Start  |
+|  49 | ...                     | ❌ Not Start  |
+|  50 | ...                     | ❌ Not Start  |
+|  51 | ...                     | ❌ Not Start  |
+|  52 | ...                     | ❌ Not Start  |
+|  53 | ...                     | ❌ Not Start  |
+|  54 | ...                     | ❌ Not Start  |
+|  55 | ...                     | ❌ Not Start  |
+|  56 | ...                     | ❌ Not Start  |
+|  57 | ...                     | ❌ Not Start  |
+|  58 | ...                     | ❌ Not Start  |
+|  59 | ...                     | ❌ Not Start  |
+|  60 | ...                     | ❌ Not Start  |
+|  61 | ...                     | ❌ Not Start  |
+|  62 | ...                     | ❌ Not Start  |
+|  63 | ...                     | ❌ Not Start  |
+|  64 | ...                     | ❌ Not Start  |
+|  65 | ...                     | ❌ Not Start  |
+|  66 | ...                     | ❌ Not Start  |
+|  67 | ...                     | ❌ Not Start  |
+|  68 | ...                     | ❌ Not Start  |
+|  69 | ...                     | ❌ Not Start  |
+|  70 | ...                     | ❌ Not Start  |
+|  71 | ...                     | ❌ Not Start  |
+|  72 | ...                     | ❌ Not Start  |
+|  73 | ...                     | ❌ Not Start  |
+|  74 | ...                     | ❌ Not Start  |
+|  75 | ...                     | ❌ Not Start  |
+|  76 | ...                     | ❌ Not Start  |
+|  77 | ...                     | ❌ Not Start  |
+|  78 | ...                     | ❌ Not Start  |
+|  79 | ...                     | ❌ Not Start  |
+|  80 | ...                     | ❌ Not Start  |
+|  81 | ...                     | ❌ Not Start  |
+|  82 | ...                     | ❌ Not Start  |
+|  83 | ...                     | ❌ Not Start  |
+|  84 | ...                     | ❌ Not Start  |
+|  85 | ...                     | ❌ Not Start  |
+|  86 | ...                     | ❌ Not Start  |
+|  87 | ...                     | ❌ Not Start  |
+|  88 | ...                     | ❌ Not Start  |
+|  89 | ...                     | ❌ Not Start  |
+|  90 | ...                     | ❌ Not Start  |
+|  91 | ...                     | ❌ Not Start  |
+|  92 | ...                     | ❌ Not Start  |
+|  93 | ...                     | ❌ Not Start  |
+|  94 | ...                     | ❌ Not Start  |
+|  95 | ...                     | ❌ Not Start  |
+|  96 | ...                     | ❌ Not Start  |
+|  97 | ...                     | ❌ Not Start  |
+|  98 | ...                     | ❌ Not Start  |
+|  99 | ...                     | ❌ Not Start  |
+| 100 | ...                     | ❌ Not Start  |
  ---------------------------------------------
 
 
@@ -216,8 +216,8 @@ Siz bilan birga sayohat qilish va birgalikda o'rganish imkoniyatini kutib qolami
 |  1            |Pythonning Asoslari| ✅ Tugallandi |
 |  2            | Ma'lumot turlari  | ✅ Tugallandi |
 |  3            | ...               | ✅ Tugallandi |
-|  4            | ...               | 🔄Bajarilmoqda|
-|  5            | ...               | ❌ Boshlanmadi|
+|  4            | ...               | ✅ Tugallandi |
+|  5            | ...               | 🔄Bajarilmoqda|
 |  6            | ...               | ❌ Boshlanmadi|
 |  7            | ...               | ❌ Boshlanmadi|
 |  8            | ...               | ❌ Boshlanmadi|
