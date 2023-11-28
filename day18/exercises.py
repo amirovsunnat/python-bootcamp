@@ -1,6 +1,10 @@
 import random
 from turtle import Turtle, Screen
 
+
+screen = Screen()
+screen.colormode(255)
+
 # # draw a square
 # my_turtle = Turtle()
 # my_turtle.left(90)
@@ -36,20 +40,5 @@ from turtle import Turtle, Screen
 #
 #
 # draw_shapes(50)
-
-
-# random walk
-colors = ["red", "yellow", "orange", "blue", "grey", "purple"]
-angels = [90, 180, 270]
-walker = Turtle()
-walker.width(5)
-walker.turtlesize(2, 3, 2)
-while True:
-    walker.forward(10)
-    walker.color(random.choice(colors))
-    walker.setheading(random.choice(angels))
-
-screen = Screen()
-screen.exitonclick()
 
 
