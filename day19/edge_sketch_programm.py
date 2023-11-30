@@ -1,4 +1,4 @@
-from turtle import Turtle, Screen
+from turtle_race_game import Turtle, Screen
 
 
 jim = Turtle()
