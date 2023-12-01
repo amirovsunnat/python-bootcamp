@@ -1,7 +1,9 @@
 import time
-from turtle import Turtle, Screen
+from turtle import Screen
 
+from day20.scoreboard_module import ScoreBoard
 from day20.snake_module import Snake
+from day20.food_module import Food
 
 # set up screen
 screen = Screen()
@@ -12,6 +14,12 @@ screen.tracer(0)
 
 # create snake object
 snake = Snake()
+
+# create food object
+food = Food()
+
+# create scoreboard object
+scoreboard = ScoreBoard()
 
 # start listening keyboard
 screen.listen()
@@ -27,5 +35,11 @@ while game_on:
     screen.update()
     time.sleep(0.1)
     snake.move()
+
+    # detecting collision with food
+    if snake.head.distance(food) < 15:
+        food.move_another_place()
+        snake.extend_snake()
+        scoreboard.update_score()
 
 screen.exitonclick()

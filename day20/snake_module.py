@@ -16,6 +16,8 @@ class Snake:
             snake = Turtle("square")
             snake.color("white")
             snake.penup()
+            snake.shapesize(stretch_len=0.5, stretch_wid=0.5)
+            snake.speed("fastest")
             snake.goto(self.x_pos[i])
             self.turtles.append(snake)
 
@@ -26,6 +28,15 @@ class Snake:
             y_coordinate = self.turtles[t - 1].ycor()
             self.turtles[t].goto(x_coordinate, y_coordinate)
         self.head.forward(10)
+
+    def extend_snake(self):
+        """Add snake part."""
+        new_snake = Turtle("square")
+        new_snake.penup()
+        new_snake.color("white")
+        new_snake.shapesize(stretch_len=0.5, stretch_wid=0.5)
+        new_snake.speed("fastest")
+        self.turtles.append(new_snake)
 
     def up(self):
         """Moves snake to up."""
