@@ -5,7 +5,7 @@ class Snake:
     """Snake class."""
     def __init__(self):
         self.turtles = []
-        self.x_pos = [(0, 0), (-20, 0), (-40, 0)]
+        self.x_pos = [(0, 0), (-10, 0), (-20, 0)]
         self.create_snake()
         self.head = self.turtles[0]
 
@@ -56,3 +56,11 @@ class Snake:
         """Turns snake to right."""
         if self.head.heading() != 180:
             self.head.setheading(0)
+
+    def reset(self):
+        """Resets snake to starting point."""
+        for i in self.turtles:
+            i.goto(3000, 3000)
+        self.turtles.clear()
+        self.create_snake()
+        self.head = self.turtles[0]
