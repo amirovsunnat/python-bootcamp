@@ -10,4 +10,3 @@ with open("Input/Letters/starting_letter.txt") as file:
 for i in range(len(names)):
     with open(f"Output/ReadyToSend/letter_for_{names[i]}.txt", mode="w") as file:
         file.write(starting_letter.replace("[name]", names[i]))
-
