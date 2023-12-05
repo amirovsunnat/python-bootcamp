@@ -20,10 +20,7 @@ while len(guessed_states) < 50:
     user_guess = screen.textinput(title=f"{len(guessed_states)}/{len(states)} States Correct.",
                                   prompt="What's another state name?").strip().title()
     if user_guess == "Exit":
-        should_learn = []
-        for s in states:
-            if s not in guessed_states:
-                should_learn.append(s)
+        should_learn = [state for state in states if state not in guessed_states]  # use list comprehension
         pandas.DataFrame(should_learn).to_csv("should_learn_state.csv")
         break
 
