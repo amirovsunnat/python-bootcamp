@@ -75,14 +75,14 @@ I'm excited to share my journey with you and learn together!
 |  22 | Pong game                                    | ✅ Completed  |
 |  23 | Turtle road crossing game                    | ✅ Completed  |
 |  24 | Files, directories, and Paths                | ✅ Completed  |
-|  25 | ...                                          | ❌ Not Start  |
-|  26 | ...                                          | ❌ Not Start  |
-|  27 | ...                                          | ❌ Not Start  |
-|  28 | ...                                          | ❌ Not Start  |
-|  29 | ...                                          | ❌ Not Start  |
-|  30 | ...                                          | ❌ Not Start  |
-|  31 | ...                                          | ❌ Not Start  |
-|  32 | ...                                          | ❌ Not Start  |
+|  25 | Working with CSV data                        | ✅ Completed  |
+|  26 | List comprehension                           | ✅ Completed  |
+|  27 | Tkinter *args, **kwargs                      | ✅ Completed  |
+|  28 | Tkinter dynamic typing                       | ✅ Completed  |
+|  29 | Building password manager. Advanced GUI      | ✅ Completed  |
+|  30 | Errors, exceptions, json data                | ✅ Completed  |
+|  31 | Flash card app capstone                      | ✅ Completed  |
+|  32 | Send email (smptlib) && manage datetime      | ✅ Completed  |
 |  33 | ...                                          | ❌ Not Start  |
 |  34 | ...                                          | ❌ Not Start  |
 |  35 | ...                                          | ❌ Not Start  |
